@@ -1,0 +1,38 @@
+.first{
+  padding-bottom: 50px;
+}
+
+.first div{
+  padding-bottom: 0px;
+}
+.first ul{
+  margin-top: -10px;
+}
+
+li{
+  margin-top: 10px;
+}
+
+.sample{
+  padding-left: 20px;
+}
+
+.second{
+  padding-bottom: 50px;
+}
+
+li{
+  color: black;
+}
+
+.third{
+  padding-bottom: 50px;
+}
+
+.fouth{
+  padding-bottom: 50px;
+}
+
+.fifth{
+  padding-bottom: 50px;
+}
