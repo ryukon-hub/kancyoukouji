@@ -9,12 +9,21 @@
   margin-top: -10px;
 }
 
-li{
-  margin-top: 10px;
-}
 
 .sample{
-  padding-left: 20px;
+  display: inline-block;
+  padding:50px 0 0 20px;
+  background-color: rgb(199, 204, 204);
+  padding: 5px;
+  border-radius: 1%;
+  margin-right: 20px;
+  margin-left: 20px;
+  color: black;
+  transition: all 0.5s;
+}
+
+a:hover{
+  background-color: rgb(146, 150, 150);
 }
 
 .second{
@@ -23,6 +32,11 @@ li{
 
 li{
   color: black;
+  padding: 1px;
+  margin-right: 100px;
+  margin-top: 10px;
+  transition: all 0.5s;
+  
 }
 
 .third{
@@ -35,4 +49,32 @@ li{
 
 .fifth{
   padding-bottom: 50px;
+}
+
+.sixth{
+  padding-bottom: 50px;
+}
+
+h2{
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+p{
+  margin-left: 30px;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/*li:hover{
+  background-color: rgb(185, 204, 204);
+}*/
+
+div:hover{
+  background-color: rgb(227, 241, 241);
+}
+
+ul{
+  margin-bottom: 30px;
 }
